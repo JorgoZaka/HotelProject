@@ -23,31 +23,22 @@ File handling has been used to store the current status of the hotel(customer de
 
 Project at a glance: 
 
-
- 
-
 Enter your choice:
 
 1.Display room details
-
 2.Display room availability 
-
 3.Book
-
-
 4.Checkout
-
 5.Exit
 
 
 Choose room type:
-
 1.Single 
-
 2.Double 
-
 3.Triple
-
 4.Family
-
 5.Suite
+
+Technologies Used
+Java : NetBeans
+DBMS : Wamp server (MySql)
